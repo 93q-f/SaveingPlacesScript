@@ -7,7 +7,7 @@
 ---
 
 ## الشروط (Terms of Use)
-
+Q
 ### 🇸🇦 عربي
 هذا السكربت مملوك لـ 93q_f او 93q-f.
 
@@ -33,5 +33,6 @@ This script is owned by 93q_f or 93q-f.
 ---
 
 Owner: 93q_f or 93q-f 
+
 Instagram: 93q_f  
 GitHub: 93q_f or 93q-f
