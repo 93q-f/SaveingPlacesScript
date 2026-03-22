@@ -32,6 +32,6 @@ This script is owned by 93q_f or 93q-f.
 
 ---
 
-Owner: 93q_f  
+Owner: 93q_f or 93q-f 
 Instagram: 93q_f  
 GitHub: 93q_f or 93q-f
